@@ -20,7 +20,7 @@ Use Case Diagram
 
 
 Class Diagram
-![OES CLASSDIAG](https://github.com/user-attachments/assets/12301da5-7b4d-48a8-89e2-97c07556b361)
+![OES CLASS DIAG](https://github.com/user-attachments/assets/c7a4152e-7b77-4c81-88b5-273fdb7c83d3)
 
 Activity Diagram
 ![OES ACTIVITY DIAG](https://github.com/user-attachments/assets/e6cac3c4-cfb9-4b73-9e53-72f2f5f7bb8c)
